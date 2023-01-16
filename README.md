@@ -1,1 +1,1 @@
-[[!masterHead] (./images/background-iamge-removebg-preview.png)]
+<img src="./images/background-iamge-removebg-preview.png" alt="">
