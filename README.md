@@ -54,15 +54,35 @@
 <a href="#"><img src="https://user-images.githubusercontent.com/98509310/212636364-5c81c7db-30b2-44b8-8db1-e543dec094be.jpeg" alt="Postman" height="50" width="50"></a>
 <a href="#"><img src="https://user-images.githubusercontent.com/98509310/212635959-1bd6da16-9630-4e0f-9b47-41c5b10fe059.png" alt="Visual Studio Code" height="50" width="50"></a>
 
-<!-- <img align="left" alt="network" src="https://user-images.githubusercontent.com/98509310/212618098-ce802f76-958f-4d2c-a819-2fb0f13d6891.jpeg" height="200" width="200">
+<h2 align="center"> Connect With Me </h2>
 
-<h3 align="right">Connect with me:</h3> -->
+<img align="left" src="https://user-images.githubusercontent.com/98509310/212618098-ce802f76-958f-4d2c-a819-2fb0f13d6891.jpeg" alt="social Networking" height="400" width="400">
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithvivarna-nallapuraju&show_icons=true&locale=en&layout=compact" alt="prithvivarna-nallapuraju" /></p>
+<h3 align="left">You can contact me in the below social media platforms </h3>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prithvivarna-nallapuraju&show_icons=true&locale=en" alt="prithvivarna-nallapuraju" /></p>
+<p>
+  <img src="https://user-images.githubusercontent.com/98509310/212657168-28cbcfcc-b431-4b2e-a417-6cd7129fd977.jpg" alt="twitter" height="25" width="25">
+  <a href="https://twitter.com/prithvivarma211" target="blank"> username: @prithvivarma211 </a>
+</p>
+<p>
+  <img src="https://user-images.githubusercontent.com/98509310/212657249-b5c03a37-ab28-4ca1-b02a-1a047904d42a.png" alt="linkedin" height="30" width="30">
+  <a href="https://linkedin.com/in/prithvivarmanallapuraju" target="blank">username: prithvivarmanallapuraju</a> 
+</p>
+<p>
+  <img src="https://user-images.githubusercontent.com/98509310/212657442-efbff646-a139-4461-aebd-a24d8e3c939d.svg" alt="github" height="30" width="30">
+  <a href="https://github.com/prithvivarma-nallapuraju" target="blank"> username: prithvivarma-nallapuraju</a>
+</p>
+<p>
+  <img src="https://user-images.githubusercontent.com/98509310/212657291-5cf7a416-eb64-4567-b533-c6ccfe5db76f.png" alt="facebook" height="30" width="30">
+  <a href="https://fb.com/prithvi.varma.71" target="blank">username: prithvi.varma.71</a> 
+</p>
+<p>
+  <img src="https://user-images.githubusercontent.com/98509310/212657209-5a309c6a-5396-4d1f-a6d1-46ac0e0faf5b.jpg" alt="facebook" height="30" width="30">
+  <a href="https://instagram.com/prithvivarma" target="blank">username: prithvivarma</a> 
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithvivarna-nallapuraju&" alt="prithvivarna-nallapuraju" /></p> -->
+<br><br><br>
 
-<h3 align="left">Support:</h3>
+<h1 align="center">Support Me</h1>
 <p><a href="https://www.buymeacoffee.com/prithvivarma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prithvivarma" /></a></p><br><br>
