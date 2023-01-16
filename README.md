@@ -11,10 +11,14 @@
 
 - 🔭 I’m currently working on **improving my portfolio**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **HTML, Tailwind CSS**
 
 - 📫 How to reach me **nvpprithvivarma@gmail.com**
 
 - ⚡ Fun fact **I am very very lazy**
+
+<img align="left" alt="network" src="https://user-images.githubusercontent.com/98509310/212618098-ce802f76-958f-4d2c-a819-2fb0f13d6891.jpeg">
+
+<h3 align="right">Connect with me:</h3>
