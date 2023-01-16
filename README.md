@@ -40,6 +40,8 @@
 <a href="#"><img src="https://user-images.githubusercontent.com/98509310/212628433-7d59c950-7fde-4492-b239-582100e41076.svg" alt="Redux" height="50" width="50"></a>
 
 <h3 align="left"> Backend Development </h3>
+<a href="#"><img src="https://user-images.githubusercontent.com/98509310/212631333-710f50b2-c5be-443d-97ac-ac0bd94f788c.png" alt="NodeJS" height="50" width="50"></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/98509310/212631361-a6a395df-85de-49f6-8f48-aa629a4a7be3.png" alt="ExpressJS" height="50" width="50"></a>
 <h3 align="left"> Databases </h3>
 <h3 align="left"> Tools </h3>
 
