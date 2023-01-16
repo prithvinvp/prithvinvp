@@ -39,11 +39,20 @@
 <a href="#"><img src="https://user-images.githubusercontent.com/98509310/212628408-84717149-3452-4cbc-88db-e69ba10b8c5f.png" alt="React" height="50" width="50"></a>
 <a href="#"><img src="https://user-images.githubusercontent.com/98509310/212628433-7d59c950-7fde-4492-b239-582100e41076.svg" alt="Redux" height="50" width="50"></a>
 
+<br>
 <h3 align="left"> Backend Development </h3>
 <a href="#"><img src="https://user-images.githubusercontent.com/98509310/212631333-710f50b2-c5be-443d-97ac-ac0bd94f788c.png" alt="NodeJS" height="50" width="50"></a>
-<a href="#"><img src="https://user-images.githubusercontent.com/98509310/212631361-a6a395df-85de-49f6-8f48-aa629a4a7be3.png" alt="ExpressJS" height="50" width="50"></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/98509310/212632609-08c50c27-49c4-4dcb-ab92-d0b39f812ca5.png" alt="ExpressJS" height="50" width="50"></a>
+
+<br>
 <h3 align="left"> Databases </h3>
+<a href="#"><img src="https://user-images.githubusercontent.com/98509310/212634275-62ea9536-70d1-4f09-9372-98ac89aadf2b.png" alt="MySQL" height="80" width="160"></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/98509310/212634303-387e3319-98cc-4285-9a7d-6d9913355be0.png" alt="MongoDB" height="80" width="250"></a>
+
+<br>
 <h3 align="left"> Tools </h3>
+<a href="#"><img src="https://user-images.githubusercontent.com/98509310/212636364-5c81c7db-30b2-44b8-8db1-e543dec094be.jpeg" alt="Postman" height="50" width="50"></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/98509310/212635959-1bd6da16-9630-4e0f-9b47-41c5b10fe059.png" alt="Visual Studio Code" height="50" width="50"></a>
 
 <!-- <img align="left" alt="network" src="https://user-images.githubusercontent.com/98509310/212618098-ce802f76-958f-4d2c-a819-2fb0f13d6891.jpeg" height="200" width="200">
 
