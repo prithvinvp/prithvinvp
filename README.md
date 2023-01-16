@@ -19,6 +19,6 @@
 
 - ⚡ Fun fact **I am very very lazy**
 
-<img align="left" alt="network" src="https://user-images.githubusercontent.com/98509310/212618098-ce802f76-958f-4d2c-a819-2fb0f13d6891.jpeg">
+<img align="left" alt="network" src="https://user-images.githubusercontent.com/98509310/212618098-ce802f76-958f-4d2c-a819-2fb0f13d6891.jpeg" height="200" width="200">
 
 <h3 align="right">Connect with me:</h3>
