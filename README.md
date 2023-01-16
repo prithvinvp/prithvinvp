@@ -54,6 +54,15 @@
 <a href="#"><img src="https://user-images.githubusercontent.com/98509310/212636364-5c81c7db-30b2-44b8-8db1-e543dec094be.jpeg" alt="Postman" height="50" width="50"></a>
 <a href="#"><img src="https://user-images.githubusercontent.com/98509310/212635959-1bd6da16-9630-4e0f-9b47-41c5b10fe059.png" alt="Visual Studio Code" height="50" width="50"></a>
 
+
+<h2 align="center"> My Acitivity in GitHub </h2>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithvivarma-nallapuraju&show_icons=true&locale=en&layout=compact" alt="prithvivarna-nallapuraju" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=prithvivarma-nallapuraju&show_icons=true&locale=en" alt="prithvivarna-nallapuraju" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithvivarma-nallapuraju&" alt="prithvivarna-nallapuraju" />
+<br><br>
+
 <h2 align="center"> Connect With Me </h2>
 
 <img align="left" src="https://user-images.githubusercontent.com/98509310/212618098-ce802f76-958f-4d2c-a819-2fb0f13d6891.jpeg" alt="social Networking" height="400" width="400">
