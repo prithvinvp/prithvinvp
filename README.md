@@ -26,6 +26,13 @@
 
 - ⚡ Fun fact **I am very very lazy**
 
+<h2 align="center">Languages and Tools<h2>
+
+<h3 align="left"> Frontend Development</h3>
+<h3 align="left"> Backend Development </h3>
+<h3 align="left"> Databases </h3>
+<h3 align="left"> Tools </h3>
+
 <img align="left" alt="network" src="https://user-images.githubusercontent.com/98509310/212618098-ce802f76-958f-4d2c-a819-2fb0f13d6891.jpeg" height="200" width="200">
 
 <h3 align="right">Connect with me:</h3>
