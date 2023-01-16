@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **HTML, Tailwind CSS**
 
-- 📫 How to reach me **nvpprithvivarma@gmail.com**
+- 📫 Reach me at **nvpprithvivarma@gmail.com**
 
 - ⚡ Fun fact **I am very very lazy**
 
@@ -31,13 +31,27 @@
 <h2 align="center"> Languages and Tools</h2>
 
 <h3 align="left"> Frontend Development</h3>
+<a href="#"><img src="https://user-images.githubusercontent.com/98509310/212628141-cf348e62-9d6d-4e6b-a53b-f7b65b443bb5.png" alt="html5" height="50" width="50"></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/98509310/212628174-f856bfbb-b5e9-47e7-8518-124f36f5fc50.png" alt="CSS3" height="50" width="50"></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/98509310/212628232-ae0df9cd-b275-48e4-ba4f-602d5b44bec5.svg" alt="JavaScript" height="50" width="50"></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/98509310/212628271-5cfffcbe-6d62-4027-b168-d2d3c5a2ad19.svg" alt="Tailwind CSS" height="50" width="50"></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/98509310/212628313-1cbda9cf-956e-4411-b1dd-a6635057e241.svg" alt="BootStrap" height="50" width="50"></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/98509310/212628408-84717149-3452-4cbc-88db-e69ba10b8c5f.png" alt="React" height="50" width="50"></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/98509310/212628433-7d59c950-7fde-4492-b239-582100e41076.svg" alt="Redux" height="50" width="50"></a>
+
 <h3 align="left"> Backend Development </h3>
 <h3 align="left"> Databases </h3>
 <h3 align="left"> Tools </h3>
 
-<img align="left" alt="network" src="https://user-images.githubusercontent.com/98509310/212618098-ce802f76-958f-4d2c-a819-2fb0f13d6891.jpeg" height="200" width="200">
+<!-- <img align="left" alt="network" src="https://user-images.githubusercontent.com/98509310/212618098-ce802f76-958f-4d2c-a819-2fb0f13d6891.jpeg" height="200" width="200">
 
-<h3 align="right">Connect with me:</h3>
+<h3 align="right">Connect with me:</h3> -->
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithvivarna-nallapuraju&show_icons=true&locale=en&layout=compact" alt="prithvivarna-nallapuraju" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prithvivarna-nallapuraju&show_icons=true&locale=en" alt="prithvivarna-nallapuraju" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithvivarna-nallapuraju&" alt="prithvivarna-nallapuraju" /></p> -->
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/prithvivarma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prithvivarma" /></a></p><br><br>
