@@ -26,7 +26,9 @@
 
 - ⚡ Fun fact **I am very very lazy**
 
-<h2 align="center">Languages and Tools<h2>
+<br><br><br>
+
+<h2 align="center"> Languages and Tools</h2>
 
 <h3 align="left"> Frontend Development</h3>
 <h3 align="left"> Backend Development </h3>
@@ -36,3 +38,6 @@
 <img align="left" alt="network" src="https://user-images.githubusercontent.com/98509310/212618098-ce802f76-958f-4d2c-a819-2fb0f13d6891.jpeg" height="200" width="200">
 
 <h3 align="right">Connect with me:</h3>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/prithvivarma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prithvivarma" /></a></p><br><br>
