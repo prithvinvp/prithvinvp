@@ -4,7 +4,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <h2 align="left">Myself in Brief:</h2>
-<p align="left">&emsp;&emsp;&emsp;I've always been a great problem solver, an independent introvert, and a technophile obsessed with the latest devices.<br>
+<p align="left">&emsp;&emsp;&emsp;I've always been a great problem solver, an independent introvert, and a technophile obsessed with the latest things. One such obsession is to learn full stack development.<br>
 
 &emsp;&emsp;&emsp;I started learning to code when I'm in college, though it was always more of a hobby than a career focus. After a college education in Electronics and Communications Engineering, and continuing to pursue that hobby, I realized software engineering was the right field for me.<br>
 
