@@ -61,6 +61,9 @@
 
 <img align="right" src="https://github-stats-git-main-prithvivarma-nallapuraju.vercel.app/api?username=prithvivarma-nallapuraju&show_icons=true&locale=en" alt="prithvivarna-nallapuraju" width="500"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithvivarma-nallapuraju&" alt="prithvivarna-nallapuraju" />
+
+<!--START_SECTION:activity-->
+
 <br><br>
 
 <h2 align="center"> Connect With Me </h2>
