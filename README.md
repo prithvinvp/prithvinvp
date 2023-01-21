@@ -62,10 +62,10 @@
 <img align="right" src="https://github-stats-git-main-prithvivarma-nallapuraju.vercel.app/api?username=prithvivarma-nallapuraju&show_icons=true&locale=en" alt="prithvivarna-nallapuraju" width="500"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithvivarma-nallapuraju&" alt="prithvivarna-nallapuraju" />
 
-<div align="center>
+<p align="center>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-</div>
+</p>
 
 <br><br>
 
