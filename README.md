@@ -62,6 +62,7 @@
 <img align="right" src="https://github-stats-git-main-prithvivarma-nallapuraju.vercel.app/api?username=prithvivarma-nallapuraju&show_icons=true&locale=en" alt="prithvivarna-nallapuraju" width="500"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithvivarma-nallapuraju&" alt="prithvivarna-nallapuraju" />
 
+<div align="center>
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/prithvivarma-nallapuraju/Stats-Preview-Card-Component/pull/1) in [prithvivarma-nallapuraju/Stats-Preview-Card-Component](https://github.com/prithvivarma-nallapuraju/Stats-Preview-Card-Component)
 2. 💪 Opened PR [#1](https://github.com/prithvivarma-nallapuraju/Stats-Preview-Card-Component/pull/1) in [prithvivarma-nallapuraju/Stats-Preview-Card-Component](https://github.com/prithvivarma-nallapuraju/Stats-Preview-Card-Component)
@@ -69,6 +70,7 @@
 4. ❗️ Opened issue [#8](https://github.com/prithvivarma-nallapuraju/profile-images/issues/8) in [prithvivarma-nallapuraju/profile-images](https://github.com/prithvivarma-nallapuraju/profile-images)
 5. ❗️ Opened issue [#7](https://github.com/prithvivarma-nallapuraju/profile-images/issues/7) in [prithvivarma-nallapuraju/profile-images](https://github.com/prithvivarma-nallapuraju/profile-images)
 <!--END_SECTION:activity-->
+</div>
 
 <br><br>
 
