@@ -64,11 +64,11 @@
 
 <br><br>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/prithvivarma-nallapuraju/Stats-Preview-Card-Component/pull/1) in [prithvivarma-nallapuraju/Stats-Preview-Card-Component](https://github.com/prithvivarma-nallapuraju/Stats-Preview-Card-Component)
-2. 💪 Opened PR [#1](https://github.com/prithvivarma-nallapuraju/Stats-Preview-Card-Component/pull/1) in [prithvivarma-nallapuraju/Stats-Preview-Card-Component](https://github.com/prithvivarma-nallapuraju/Stats-Preview-Card-Component)
-3. ❗️ Opened issue [#9](https://github.com/prithvivarma-nallapuraju/profile-images/issues/9) in [prithvivarma-nallapuraju/profile-images](https://github.com/prithvivarma-nallapuraju/profile-images)
-4. ❗️ Opened issue [#8](https://github.com/prithvivarma-nallapuraju/profile-images/issues/8) in [prithvivarma-nallapuraju/profile-images](https://github.com/prithvivarma-nallapuraju/profile-images)
-5. ❗️ Opened issue [#7](https://github.com/prithvivarma-nallapuraju/profile-images/issues/7) in [prithvivarma-nallapuraju/profile-images](https://github.com/prithvivarma-nallapuraju/profile-images)
+1. 🎉 Merged PR [#1](https://github.com/prithvivarma-nallapuraju/JavaScript-Practise-Programs/pull/1) in [prithvivarma-nallapuraju/JavaScript-Practise-Programs](https://github.com/prithvivarma-nallapuraju/JavaScript-Practise-Programs)
+2. 💪 Opened PR [#1](https://github.com/prithvivarma-nallapuraju/JavaScript-Practise-Programs/pull/1) in [prithvivarma-nallapuraju/JavaScript-Practise-Programs](https://github.com/prithvivarma-nallapuraju/JavaScript-Practise-Programs)
+3. 🎉 Merged PR [#1](https://github.com/prithvivarma-nallapuraju/Stats-Preview-Card-Component/pull/1) in [prithvivarma-nallapuraju/Stats-Preview-Card-Component](https://github.com/prithvivarma-nallapuraju/Stats-Preview-Card-Component)
+4. 💪 Opened PR [#1](https://github.com/prithvivarma-nallapuraju/Stats-Preview-Card-Component/pull/1) in [prithvivarma-nallapuraju/Stats-Preview-Card-Component](https://github.com/prithvivarma-nallapuraju/Stats-Preview-Card-Component)
+5. ❗️ Opened issue [#9](https://github.com/prithvivarma-nallapuraju/profile-images/issues/9) in [prithvivarma-nallapuraju/profile-images](https://github.com/prithvivarma-nallapuraju/profile-images)
 <!--END_SECTION:activity-->
 
 
