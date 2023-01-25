@@ -96,4 +96,6 @@
 <br><br><br>
 
 <h1 align="center">Support Me</h1>
-<p><a href="https://www.buymeacoffee.com/prithvivarma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prithvivarma" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/prithvivarma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="65" width="210" alt="prithvivarma" /></a>
+  <a href="https://paypal.me/prithvivarmaN?country.x=IN&locale.x=en_GB"><img align="left" src="https://user-images.githubusercontent.com/98509310/214491439-fe28cd19-6bff-4fea-ba6c-72e961cebf9c.png" height="65" width="210"></a>
+</p><br><br>
