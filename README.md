@@ -36,7 +36,7 @@
 <a href="#"><img src="https://user-images.githubusercontent.com/98509310/212628271-5cfffcbe-6d62-4027-b168-d2d3c5a2ad19.svg" alt="Tailwind CSS" height="50" width="50"></a>
 <a href="#"><img src="https://user-images.githubusercontent.com/98509310/212628313-1cbda9cf-956e-4411-b1dd-a6635057e241.svg" alt="BootStrap" height="50" width="50"></a>
 <a href="#"><img src="https://user-images.githubusercontent.com/98509310/212628408-84717149-3452-4cbc-88db-e69ba10b8c5f.png" alt="React" height="50" width="50"></a>
-<a href="#"><img src="https://user-images.githubusercontent.com/98509310/212628433-7d59c950-7fde-4492-b239-582100e41076.svg" alt="Redux" height="50" width="50"></a>
+<!--<a href="#"><img src="https://user-images.githubusercontent.com/98509310/212628433-7d59c950-7fde-4492-b239-582100e41076.svg" alt="Redux" height="50" width="50"></a> -->
 
 <br>
 <h3 align="left"> Backend Development </h3>
@@ -46,7 +46,7 @@
 <br>
 <h3 align="left"> Databases </h3>
 <a href="#"><img src="https://user-images.githubusercontent.com/98509310/212634275-62ea9536-70d1-4f09-9372-98ac89aadf2b.png" alt="MySQL" height="80" width="160"></a>
-<a href="#"><img src="https://user-images.githubusercontent.com/98509310/212634303-387e3319-98cc-4285-9a7d-6d9913355be0.png" alt="MongoDB" height="80" width="250"></a>
+<!--<a href="#"><img src="https://user-images.githubusercontent.com/98509310/212634303-387e3319-98cc-4285-9a7d-6d9913355be0.png" alt="MongoDB" height="80" width="250"></a> -->
 
 <br>
 <h3 align="left"> Tools </h3>
