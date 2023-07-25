@@ -56,10 +56,10 @@
 
 <h2 align="center"> My Acitivity in GitHub </h2>
 
-<img align="left" src="https://github-stats-git-main-prithvivarma-nallapuraju.vercel.app/api/top-langs?username=prithvivarma-nallapuraju&show_icons=true&locale=en&layout=compact" alt="prithvivarna-nallapuraju" width="500"/>
+<!--<img align="left" src="https://github-stats-git-main-prithvivarma-nallapuraju.vercel.app/api/top-langs?username=prithvivarma-nallapuraju&show_icons=true&locale=en&layout=compact" alt="prithvivarna-nallapuraju" width="500"/>
 
-<img align="right" src="https://github-stats-git-main-prithvivarma-nallapuraju.vercel.app/api?username=prithvivarma-nallapuraju&show_icons=true&locale=en" alt="prithvivarna-nallapuraju" width="500"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithvivarma-nallapuraju&" alt="prithvivarna-nallapuraju" />
+<img align="right" src="https://github-stats-git-main-prithvivarma-nallapuraju.vercel.app/api?username=prithvivarma-nallapuraju&show_icons=true&locale=en" alt="prithvivarna-nallapuraju" width="500"/> -->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithvivarma-nallapuraju&" alt="prithvivarna-nallapuraju" width="1000"/>
 
 
 
