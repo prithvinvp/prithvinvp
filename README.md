@@ -53,12 +53,25 @@
 <a href="#"><img src="https://user-images.githubusercontent.com/98509310/212636364-5c81c7db-30b2-44b8-8db1-e543dec094be.jpeg" alt="Postman" height="50" width="50"></a>
 <a href="#"><img src="https://user-images.githubusercontent.com/98509310/212635959-1bd6da16-9630-4e0f-9b47-41c5b10fe059.png" alt="Visual Studio Code" height="50" width="50"></a>
 
+<br><br>
 
 <h2 align="center"> My Acitivity in GitHub </h2>
 
-<p><a href="https://git.io/streak-stats"><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=prithvivarma-nallapuraju" alt="GitHub Streak" width="450"></a></p>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=prithvivarma-nallapuraju&count_private=true&show_icons=true&hide_border=true" alt="prithvi-varma-nallapuraju" width="450"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithvivarma-nallapuraju" alt="top-languages" height="400" width="1000"/>
+<table width="1600">
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=prithvivarma-nallapuraju" alt="GitHub Streak" width="450"></a>
+    </td>
+    <td rowspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithvivarma-nallapuraju" alt="top-languages" width="450"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=prithvivarma-nallapuraju&count_private=true&show_icons=true&hide_border=true" alt="prithvi-varma-nallapuraju" width="450"/>
+    </td>
+  </tr>
+</table>
 
 <br><br><br>
 
