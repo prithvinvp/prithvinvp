@@ -61,7 +61,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=prithvivarma-nallapuraju&count_private=true&show_icons=true&hide_border=true" alt="prithvi-varma-nallapuraju" width="400"/>
 
 
-<br><br>
+<br><br><br><br><br>
 
 <h2 align="center"> Connect With Me </h2>
 
