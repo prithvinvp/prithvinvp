@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/98509310/212615188-69e5a512-6c54-4ec9-b2a4-3671a5128343.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prithvivarna-nallapuraju&label=Profile%20views&color=0e75b6&style=flat" alt="prithvivarna-nallapuraju" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prithvivarma-nallapuraju&label=Profile%20views&color=0e75b6&style=flat" alt="prithvivarna-nallapuraju" /> </p>
 
 
 - 🔭 I’m currently working on **improving my portfolio**
