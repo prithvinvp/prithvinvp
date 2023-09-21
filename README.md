@@ -60,9 +60,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=prithvivarma-nallapuraju&count_private=true&show_icons=true&hide_border=true" alt="prithvi-varma-nallapuraju" width="450"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithvivarma-nallapuraju" alt="top-languages" width="600"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithvivarma-nallapuraju" alt="top-languages" width="800" height="500"/>
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br>
 
 <h2 align="center"> Connect With Me </h2>
 
