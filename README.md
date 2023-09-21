@@ -60,6 +60,7 @@
 
 <img align="right" src="https://github-stats-git-main-prithvivarma-nallapuraju.vercel.app/api?username=prithvivarma-nallapuraju&show_icons=true&locale=en" alt="prithvivarna-nallapuraju" width="500"/> -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithvivarma-nallapuraju&" alt="prithvivarna-nallapuraju" width="1000"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=prithvivarma-nallapuraju&count_private=true&show_icons=true&hide_border=true" alt="prithvi-varma-nallapuraju" width="600"/>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=prithvivarma-nallapuraju&count_private=true&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prithvivarma-nallapuraju&count_private=true&langs_count=30&layout=compact)](https://github.com/OutOfBoundCats/github-readme-stats)
 
