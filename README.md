@@ -56,9 +56,9 @@
 
 <h2 align="center"> My Acitivity in GitHub </h2>
 
-<p><a href="https://git.io/streak-stats"><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=prithvivarma-nallapuraju" alt="GitHub Streak" width="450" height="550"></a></p>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=prithvivarma-nallapuraju&count_private=true&show_icons=true&hide_border=true" alt="prithvi-varma-nallapuraju" width="450"  height="550"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithvivarma-nallapuraju" alt="top-languages" height="400" width="1500"/>
+<p><a href="https://git.io/streak-stats"><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=prithvivarma-nallapuraju" alt="GitHub Streak" width="450"></a></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=prithvivarma-nallapuraju&count_private=true&show_icons=true&hide_border=true" alt="prithvi-varma-nallapuraju" width="450"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithvivarma-nallapuraju" alt="top-languages" height="400" width="1000"/>
 
 <br><br><br>
 
