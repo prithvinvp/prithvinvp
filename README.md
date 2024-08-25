@@ -1,6 +1,6 @@
 ![top](https://user-images.githubusercontent.com/98509310/212615846-2c24670f-78b9-4356-8157-b645a45bdd8f.png)
 
-<h1 align="center">Hi 👋, I'm Prithvi Varma Nallapuraju</h1>
+<h1 align="center">Hi 👋, I'm Prithvi NVP</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <h3 align="left">Myself in Brief:</h3>
